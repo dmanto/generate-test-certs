@@ -1,6 +1,8 @@
 
 > Forked from paulczar/omgwtfssl
 
+![.github/workflows/docker-push.yml](https://github.com/dmanto/generate-test-certs/workflows/.github/workflows/docker-push.yml/badge.svg)
+
 generate-test-certs - Self Signed SSL Certificate Generator
 =================================================
 
